@@ -1,0 +1,158 @@
+{
+  "en": [
+    {
+      "image": "https://flagcdn.com/w320/us.png",
+      "answer": "United States",
+      "options": ["United States", "Canada", "UK", "Germany"]
+    },
+    {
+      "image": "https://flagcdn.com/w320/fr.png",
+      "answer": "France",
+      "options": ["Italy", "France", "Spain", "Netherlands"]
+    },
+    {
+      "image": "https://flagcdn.com/w320/jp.png",
+      "answer": "Japan",
+      "options": ["China", "South Korea", "Japan", "Thailand"]
+    },
+    {
+      "image": "https://flagcdn.com/w320/br.png",
+      "answer": "Brazil",
+      "options": ["Argentina", "Brazil", "Portugal", "Mexico"]
+    },
+    {
+      "image": "https://flagcdn.com/w320/de.png",
+      "answer": "Germany",
+      "options": ["Germany", "Austria", "Switzerland", "Belgium"]
+    },
+    {
+      "image": "https://flagcdn.com/w320/ca.png",
+      "answer": "Canada",
+      "options": ["Canada", "United States", "Australia", "New Zealand"]
+    },
+    {
+      "image": "https://flagcdn.com/w320/au.png",
+      "answer": "Australia",
+      "options": ["New Zealand", "Australia", "UK", "South Africa"]
+    },
+    {
+      "image": "https://flagcdn.com/w320/in.png",
+      "answer": "India",
+      "options": ["India", "Pakistan", "Bangladesh", "Sri Lanka"]
+    },
+    {
+      "image": "https://flagcdn.com/w320/cn.png",
+      "answer": "China",
+      "options": ["China", "Vietnam", "Mongolia", "North Korea"]
+    },
+    {
+      "image": "https://flagcdn.com/w320/za.png",
+      "answer": "South Africa",
+      "options": ["South Africa", "Nigeria", "Kenya", "Ghana"]
+    }
+  ],
+  "ar": [
+    {
+      "image": "https://flagcdn.com/w320/us.png",
+      "answer": "الولايات المتحدة",
+      "options": ["الولايات المتحدة", "كندا", "المملكة المتحدة", "ألمانيا"]
+    },
+    {
+      "image": "https://flagcdn.com/w320/fr.png",
+      "answer": "فرنسا",
+      "options": ["إيطاليا", "فرنسا", "إسبانيا", "هولندا"]
+    },
+    {
+      "image": "https://flagcdn.com/w320/jp.png",
+      "answer": "اليابان",
+      "options": ["الصين", "كوريا الجنوبية", "اليابان", "تايلاند"]
+    },
+    {
+      "image": "https://flagcdn.com/w320/br.png",
+      "answer": "البرازيل",
+      "options": ["الأرجنتين", "البرازيل", "البرتغال", "المكسيك"]
+    },
+    {
+      "image": "https://flagcdn.com/w320/de.png",
+      "answer": "ألمانيا",
+      "options": ["ألمانيا", "النمسا", "سويسرا", "بلجيكا"]
+    },
+    {
+      "image": "https://flagcdn.com/w320/ca.png",
+      "answer": "كندا",
+      "options": ["كندا", "الولايات المتحدة", "أستراليا", "نيوزيلندا"]
+    },
+    {
+      "image": "https://flagcdn.com/w320/au.png",
+      "answer": "أستراليا",
+      "options": ["نيوزيلندا", "أستراليا", "المملكة المتحدة", "جنوب أفريقيا"]
+    },
+    {
+      "image": "https://flagcdn.com/w320/in.png",
+      "answer": "الهند",
+      "options": ["الهند", "باكستان", "بنغلاديش", "سريلانكا"]
+    },
+    {
+      "image": "https://flagcdn.com/w320/cn.png",
+      "answer": "الصين",
+      "options": ["الصين", "فيتنام", "منغوليا", "كوريا الشمالية"]
+    },
+    {
+      "image": "https://flagcdn.com/w320/za.png",
+      "answer": "جنوب أفريقيا",
+      "options": ["جنوب أفريقيا", "نيجيريا", "كينيا", "غانا"]
+    }
+  ],
+  "fr": [
+    {
+      "image": "https://flagcdn.com/w320/us.png",
+      "answer": "États-Unis",
+      "options": ["États-Unis", "Canada", "Royaume-Uni", "Allemagne"]
+    },
+    {
+      "image": "https://flagcdn.com/w320/fr.png",
+      "answer": "France",
+      "options": ["Italie", "France", "Espagne", "Pays-Bas"]
+    },
+    {
+      "image": "https://flagcdn.com/w320/jp.png",
+      "answer": "Japon",
+      "options": ["Chine", "Corée du Sud", "Japon", "Thaïlande"]
+    },
+    {
+      "image": "https://flagcdn.com/w320/br.png",
+      "answer": "Brésil",
+      "options": ["Argentine", "Brésil", "Portugal", "Mexique"]
+    },
+    {
+      "image": "https://flagcdn.com/w320/de.png",
+      "answer": "Allemagne",
+      "options": ["Allemagne", "Autriche", "Suisse", "Belgique"]
+    },
+    {
+      "image": "https://flagcdn.com/w320/ca.png",
+      "answer": "Canada",
+      "options": ["Canada", "États-Unis", "Australie", "Nouvelle-Zélande"]
+    },
+    {
+      "image": "https://flagcdn.com/w320/au.png",
+      "answer": "Australie",
+      "options": ["Nouvelle-Zélande", "Australie", "Royaume-Uni", "Afrique du Sud"]
+    },
+    {
+      "image": "https://flagcdn.com/w320/in.png",
+      "answer": "Inde",
+      "options": ["Inde", "Pakistan", "Bangladesh", "Sri Lanka"]
+    },
+    {
+      "image": "https://flagcdn.com/w320/cn.png",
+      "answer": "Chine",
+      "options": ["Chine", "Vietnam", "Mongolie", "Corée du Nord"]
+    },
+    {
+      "image": "https://flagcdn.com/w320/za.png",
+      "answer": "Afrique du Sud",
+      "options": ["Afrique du Sud", "Nigeria", "Kenya", "Ghana"]
+    }
+  ]
+}
